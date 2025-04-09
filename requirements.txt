@@ -1,0 +1,9 @@
+streamlit
+chromadb
+langchain
+sentence-transformers
+langchain-huggingface
+langchain-groq
+sympy
+matplotlib
+numpy
